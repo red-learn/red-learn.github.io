@@ -7,12 +7,13 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Wed, 22 Nov 2023 17:42:21 +0800</lastBuildDate><atom:link href="https://red-learn.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>learn html5 and css3 -01</title>
-        <link>https://red-learn.github.io/post/learn-html/learn-html/</link>
+        <title>hello world</title>
+        <link>https://red-learn.github.io/post/hello/hello/</link>
         <pubDate>Wed, 22 Nov 2023 17:42:21 +0800</pubDate>
         
-        <guid>https://red-learn.github.io/post/learn-html/learn-html/</guid>
-        <description>&lt;h2 id=&#34;learn-html5-and-css3--01&#34;&gt;learn html5 and css3 -01&lt;/h2&gt;
+        <guid>https://red-learn.github.io/post/hello/hello/</guid>
+        <description>&lt;h2 id=&#34;hello-world&#34;&gt;hello world&lt;/h2&gt;
+&lt;p&gt;hello&lt;/p&gt;
 </description>
         </item>
         
